@@ -14,5 +14,18 @@ de una organización?
 RESPUESTAS:
 1.
 2.
-3.
+3.Scrum, como metodología ágil, tiene un impacto significativo en la productividad y los costos de desarrollo 
+1. Impacto en la Productividad
+Scrum mejora la productividad en varias formas clave:
+Mayor Adaptabilidad: Scrum permite ajustes constantes en cada sprint (iteración), asegurando que el equipo trabaje en las prioridades más importantes.
+Entrega Incremental y Continua: En lugar de esperar hasta el final del proyecto para ver un producto terminado, con Scrum se entregan versiones funcionales en cada sprint, permitiendo retroalimentación temprana y mejorando la eficiencia.
+Mejor Comunicación y Colaboración: Con reuniones diarias, los equipos están alineados y resuelven problemas más rápido.
+Mayor motivación: Los equipos en Scrum tienen más independencia para organizarse y tomar decisiones, lo que fomenta un mayor compromiso.
+
+2. Impacto en los Costos de Desarrollo
+Scrum puede reducir costos en varios aspectos:
+Menos Retrabajo: se detectan errores y cambios en los requerimientos a tiempo, evitando costos adicionales en fases avanzadas del desarrollo.
+Mejor Uso de los Recursos: Al enfocarse en tareas prioritarias los equipos optimizan su tiempo y esfuerzo, reduciendo costos innecesarios.
+Menos Riesgo de Fracaso: En metodologías tradicionales, los proyectos pueden fallar porque los requerimientos iniciales no reflejan las necesidades reales del usuario. Con Scrum, la validación constante reduce el riesgo de construir un producto que no sea útil
+
 4.
