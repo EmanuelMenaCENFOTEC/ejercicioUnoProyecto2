@@ -12,6 +12,7 @@ comparación con los enfoques tradicionales?
 de una organización?
 
 RESPUESTAS:
+
 1.Desafio #1: Su cambio no es  completamente ascendiente ni descediente
 Al implementar la metodologia SCRUM se requiere apoyo de toda la organizacion y no solo de un departamento, la participacion va desde el apoyo de la alta gerencia hasta la de equipos operativos (desarrollo, ventas, marketing, etc. Ya que si solo una parte es la que se compromete al cambio se puede enfrentar la resistencia al cambio.
 Como enfrentarlo?
@@ -34,7 +35,20 @@ Como enfrentarlo?
 Por otro lado, Scrum tampoco puede ser bottom-up, ya que si la iniciativa viene solo de los equipos de desarrollo sin el respaldo de la dirección, es probable que enfrenten barreras organizacionales difíciles de superar. Scrum impacta áreas clave como ventas y finanzas, y sin apoyo desde la gerencia, estos departamentos podrían bloquear la transición para proteger sus propios intereses.
 
 Por estas razones, la adopción de Scrum requiere un equilibrio entre el apoyo de la alta dirección y la participación activa de los equipos, garantizando así una implementación más efectiva y sostenible en toda la organización.
-3.
+
+3.Scrum, como metodología ágil, tiene un impacto significativo en la productividad y los costos de desarrollo 
+1. Impacto en la Productividad
+Scrum mejora la productividad en varias formas clave:
+Mayor Adaptabilidad: Scrum permite ajustes constantes en cada sprint (iteración), asegurando que el equipo trabaje en las prioridades más importantes.
+Entrega Incremental y Continua: En lugar de esperar hasta el final del proyecto para ver un producto terminado, con Scrum se entregan versiones funcionales en cada sprint, permitiendo retroalimentación temprana y mejorando la eficiencia.
+Mejor Comunicación y Colaboración: Con reuniones diarias, los equipos están alineados y resuelven problemas más rápido.
+Mayor motivación: Los equipos en Scrum tienen más independencia para organizarse y tomar decisiones, lo que fomenta un mayor compromiso.
+
+2. Impacto en los Costos de Desarrollo
+Scrum puede reducir costos en varios aspectos:
+Menos Retrabajo: se detectan errores y cambios en los requerimientos a tiempo, evitando costos adicionales en fases avanzadas del desarrollo.
+Mejor Uso de los Recursos: Al enfocarse en tareas prioritarias los equipos optimizan su tiempo y esfuerzo, reduciendo costos innecesarios.
+Menos Riesgo de Fracaso: En metodologías tradicionales, los proyectos pueden fallar porque los requerimientos iniciales no reflejan las necesidades reales del usuario. Con Scrum, la validación constante reduce el riesgo de construir un producto que no sea útil
+
 
 4.Scrum proporciona un entorno de trabajo más estructurado, colaborativo y enfocado en resultados visibles y de calidad, reduciendo la carga laboral innecesaria y aumentando la motivación.
-
