@@ -19,4 +19,6 @@ Por otro lado, Scrum tampoco puede ser bottom-up, ya que si la iniciativa viene 
 
 Por estas razones, la adopción de Scrum requiere un equilibrio entre el apoyo de la alta dirección y la participación activa de los equipos, garantizando así una implementación más efectiva y sostenible en toda la organización.
 3.
-4.
+
+4.Scrum proporciona un entorno de trabajo más estructurado, colaborativo y enfocado en resultados visibles y de calidad, reduciendo la carga laboral innecesaria y aumentando la motivación.
+
