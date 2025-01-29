@@ -13,6 +13,10 @@ de una organización?
 
 RESPUESTAS:
 1.
-2.
+2. Scrum no puede ser completamente top-down porque si la transición proviene únicamente de la alta dirección, los equipos de trabajo pueden percibir la metodología como una imposición, lo que genera resistencia y dificulta su adopción. Además, un líder por sí solo no puede gestionar todos los aspectos del cambio, como desarrollar la visión, comunicarla efectivamente y aplicarla en todos los proyectos simultáneamente.
+
+Por otro lado, Scrum tampoco puede ser bottom-up, ya que si la iniciativa viene solo de los equipos de desarrollo sin el respaldo de la dirección, es probable que enfrenten barreras organizacionales difíciles de superar. Scrum impacta áreas clave como ventas y finanzas, y sin apoyo desde la gerencia, estos departamentos podrían bloquear la transición para proteger sus propios intereses.
+
+Por estas razones, la adopción de Scrum requiere un equilibrio entre el apoyo de la alta dirección y la participación activa de los equipos, garantizando así una implementación más efectiva y sostenible en toda la organización.
 3.
 4.
