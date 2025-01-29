@@ -15,4 +15,4 @@ RESPUESTAS:
 1.
 2.
 3.
-4.Scrum mejora la satisfacción y el compromiso de los empleados al proporcionarles un entorno de trabajo más estructurado, colaborativo y enfocado en resultados visibles y de calidad, reduciendo la carga laboral innecesaria y aumentando la motivación.
+4.Scrum proporciona un entorno de trabajo más estructurado, colaborativo y enfocado en resultados visibles y de calidad, reduciendo la carga laboral innecesaria y aumentando la motivación.
