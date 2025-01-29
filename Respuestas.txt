@@ -12,7 +12,23 @@ comparación con los enfoques tradicionales?
 de una organización?
 
 RESPUESTAS:
-1.
+Desafio #1: Su cambio no es  completamente ascendiente ni descediente
+Al implementar la metodologia SCRUM se requiere apoyo de toda la organizacion y no solo de un departamento, la participacion va desde el apoyo de la alta gerencia hasta la de equipos operativos (desarrollo, ventas, marketing, etc. Ya que si solo una parte es la que se compromete al cambio se puede enfrentar la resistencia al cambio.
+Como enfrentarlo?
+>> Los lideres deben asegurarse de remover los obstaculos organizacionales que puedan entorpecer la implementacion de SCRUM.
+>> Involucrar a a los equipos desde un inicio y adaptarlo a las necesidades de su departamento ya que la estandarización extrema limita la mejora contínua.
+
+Desafío #2: Sus resultados no pueden ser predecidos:
+Scrum es una metodologia agil que requiere constante adaptación  y no tiene un estado definido. Esto causa que se pueda querer volver a los metodos tradicionaeles con resultados finales mas predecibles.
+Como enfrentarlo?
+>> Estar abrierto a cambios, experimentar y observar y analizar los resultados para asi aprender de ellos y ajustar la implementación de SCRUM.
+
+Desafío #3: Resistencia al cambio:
+Por lo general los departamentos ya tiene habitos aprendidos de enfoques de trabajo tradicionales, por lo que se puede enfrentarla resistencia al cambio con la adaptacion de SCRUM como metodologia de trabajo.
+Como enfrentarlo?
+>> La organización debe ofrecer capacitación y coaching a los equipos de trabajo para facilitarles la adaptacion a las nuevas practicas de trabajo. 
+>> LA presencia de un SCRUM Master es escencial desde el inicio porque facilita la guía y apoyo para aclarar dudas o inquietudes sobre las nuevas formas de trabajo.
+
 2.
 3.
 4.
